@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "118953843634",
+    "project_id": "prj1-c5912",
+    "storage_bucket": "prj1-c5912.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:118953843634:android:270aa545be82a2ba9de2ab",
+        "android_client_info": {
+          "package_name": "com.restapi.lab1_ph46328"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqafkFes-qxm0BkFG1ILrLdvL1rV7OamY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:118953843634:android:427c432150f88b8e9de2ab",
+        "android_client_info": {
+          "package_name": "com.restapi.phuongday"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqafkFes-qxm0BkFG1ILrLdvL1rV7OamY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
